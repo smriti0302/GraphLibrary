@@ -1,0 +1,67 @@
+  Graph.cpp
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(7,24): error C2878: 'pybind11': a namespace or class of this name does not exist
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(44,14): error C2039: 'vector': is not a member of 'std'
+C:\Users\Sivakumar\Desktop\GraphLib\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(43,1): message : see reference to class template instantiation 'Graph<T,W>::Node' being compiled
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(134,2): message : see reference to class template instantiation 'Graph<T,W>' being compiled
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(44,20): error C2143: syntax error: missing ';' before '<'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(44,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(44,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(96,37): error C2039: 'vector': is not a member of 'std'
+C:\Users\Sivakumar\Desktop\GraphLib\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(96,1): error C2061: syntax error: identifier 'vector'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(125,10): error C2039: 'vector': is not a member of 'std'
+C:\Users\Sivakumar\Desktop\GraphLib\predefined C++ types (compiler internal)(343,11): message : see declaration of 'std'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(125,16): error C2143: syntax error: missing ';' before '<'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(125,1): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(125,1): error C2238: unexpected token(s) preceding ';'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(58,9): error C3861: 'nodes': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(58,9): error C2065: 'nodes': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(98,9): error C3861: 'visited': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(99,27): error C3861: 'nodes': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(100,45): error C2065: 'nodes': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(100,45): error C3861: 'nodes': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(101,18): error C2065: 'visited': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(101,18): error C3861: 'visited': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(102,17): error C3861: 'parent': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(103,39): error C3861: 'visited': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(103,48): error C3861: 'parent': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(107,22): error C2065: 'parent': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(107,22): error C3861: 'parent': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(98,9): error C2065: 'visited': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(99,27): error C2065: 'nodes': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(102,17): error C2065: 'parent': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(103,39): error C2065: 'visited': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(103,48): error C2065: 'parent': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,24): error C2760: syntax error: '>' was unexpected here; expected 'expression'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,24): error C3878: syntax error: unexpected token '>' following 'expression'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,24): message : error recovery skipped: '> identifier (  . . . ('
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,44): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,44): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,44): message : error recovery skipped: ') ,'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,49): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,49): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(114,49): message : error recovery skipped: ')'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,24): error C2760: syntax error: '>' was unexpected here; expected 'expression'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,24): error C3878: syntax error: unexpected token '>' following 'expression'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,24): message : error recovery skipped: '> identifier (  . . . ('
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,45): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,45): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,45): message : error recovery skipped: ') ,'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,53): error C2760: syntax error: ')' was unexpected here; expected ';'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,53): error C3878: syntax error: unexpected token ')' following 'expression_statement'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(115,53): message : error recovery skipped: ')'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(116,30): error C2065: 'nodes': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(118,18): error C2065: 'visited': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(118,47): error C2065: 'visited': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(118,56): error C2065: 'parent': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(127,27): error C3861: 'nodes': identifier not found
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(127,27): error C2065: 'nodes': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,25): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,17): error C2065: 'GraphLib': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,27): error C2065: 'm': undeclared identifier
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,16): error C2440: 'initializing': cannot convert from 'initializer list' to 'int'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,16): message : The initializer contains too many elements
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,30): error C2059: syntax error: '{'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,30): error C2143: syntax error: missing ';' before '{'
+C:\Users\Sivakumar\Desktop\GraphLib\Graph.cpp(136,30): error C2447: '{': missing function header (old-style formal list?)
