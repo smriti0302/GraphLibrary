@@ -1,1 +1,2 @@
+#Graph Library
 A templatized graph library written in C++, using STL, made callable from Python.
